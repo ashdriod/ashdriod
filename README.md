@@ -1,17 +1,27 @@
--1+ years of experience in the Software Development Life Cycle. Having Domain knowledge in Insurance. Create and deliver data-driven reports. Design, code and test new Windows and web software applications.Enhance existing systems by analyzing business objectives, preparing an action plan, and identifying areas for modification and improvement
+# Hi there, I'm a Software Engineer! 👋
 
--Has expertise in building scalable applications with .NET Core. Has a deep understanding of building applications using .NET Core and Azure PaaS and Serverless offerings.
+## About Me 📖
 
--Focused on writing clear maintainable code and documentation. Constantly learning and helping others, while staying on top of emerging technologies.
+I am a software engineer with over 2 years of experience in the Software Development Life Cycle, with a strong domain knowledge in Insurance. I enjoy creating and delivering data-driven reports, designing, coding, and testing new Windows and web software applications, and enhancing existing systems by analyzing business objectives, preparing an action plan, and identifying areas for modification and improvement. 
 
+## Skills 💻
 
--Currently upgrading my problem-solving skills through Data Structure and Algorithms and learning something new every day is my daily routine, delivering quality in work, managing multiple projects on strict timelines
+| Category | Skills |
+| --- | --- |
+| Front End | JavaScript, React, Angular, Flutter, Xcode |
+| Back End | .Net Core, MongoDB, MySQL, Web API, Firebase, GraphDB, Asp.Net MVC |
+| DevOps/SRE tools | Docker, Kubernetes, Rally, Git, CI-CD |
+| Deployment Technologies | Amazon Web Services (AWS), Microsoft Azure |
+| Methodologies | Agile Development, Scrum Practices |
 
+## Expertise 🚀
 
-Skills:
+My expertise lies in building scalable applications with .NET Core, as well as a deep understanding of building applications using .NET Core and Azure PaaS and Serverless offerings. I take pride in writing clear and maintainable code, documenting my work, and constantly learning and staying on top of emerging technologies.
 
-*Front End: JavaScript | React | Angular | Flutter | Xcode <br />
-*Back End: .Net Core | MongoDB | MySQL | Web API | Firebase | GraphDB| Asp.Net MVC <br />
-*DevOps/SRE tools: Docker| Kubernetes| Rally | Git | CI-CD <br />
-*Deployment Technologies: Amazon Web Services (AWS) | Microsoft Azure <br />
-*Methodologies: Agile Development | Scrum Practices <br />
+## Current Focus 🌱
+
+I am currently upgrading my problem-solving skills through Data Structures and Algorithms and learning something new every day is my daily routine. I believe in delivering quality work and managing multiple projects on strict timelines.
+
+## Let's Connect 🤝
+
+I am always looking to collaborate and create innovative solutions together. Please feel free to connect with me on [GitHub](https://github.com/ashdriod) to learn more about my projects and experience.
