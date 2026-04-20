@@ -1,36 +1,27 @@
-# Hi there, I'm a Software Engineer! 👋
+# Hey, I'm Ashwin 👋
 
-## About Me 📖
+Software engineer with around five years of experience, working across industrial cybersecurity, machine learning, full-stack development, and home labbing.
 
-I am a software engineer with over 2 years of experience in the Software Development Life Cycle, with a strong domain knowledge in Insurance. I enjoy creating and delivering data-driven reports, designing, coding, and testing new Windows and web software applications, and enhancing existing systems by analyzing business objectives, preparing an action plan, and identifying areas for modification and improvement. 
+## What I do
 
-## My Toolkit 💻
+I build software for real-world use — industrial security testing platforms, ML pipelines running on edge devices and microcontrollers, research tools used across university labs, and self-hosted infrastructure that I run and maintain myself.
 
-| Area of Proficiency | My Skills |
-| --- | --- |
-| Programming Languages | JavaScript, Python, Java, C++, C |
-| Front End | React, Angular, Flutter, HTML, CSS |
-| Back End | Node.js, Express.js, MongoDB, MySQL, Web API, Firebase, Asp.Net MVC |
-| DevOps/SRE Tools | Docker, Git, Jenkins, CI/CD, GitHub Actions |
-| Cloud Platforms | Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP) |
-| Software Testing | Unit Testing, Integration Testing, Test Automation (Jest) |
-| Version Control | Git, SVN |
-| Deployment Technologies | AWS Elastic Beanstalk, Azure App Service |
-| Web Frameworks | React.js, Angular, Flask, .NET |
-| Database Systems | MongoDB, MySQL, Apache Spark, Microsoft SQL Server, Neo4j |
-| Other Tools | Jira, GitLab, Postman, Swagger, Trello |
-| Methodologies | Agile Development, Scrum Practices |
-| Soft Skills | Leadership, Initiative, Public Speaking, Communication, Time Management |
+## What I've worked on
 
+- **Industrial cybersecurity** — Protocol fuzzing, cross-protocol fuzzing, and desktop testing platforms built with PySide6 and FastAPI at Fraunhofer IOSB
+- **Embedded & ML** — Sensor firmware, BLE streaming, TinyML deployment, and a Flutter app with on-device inference at Hahn-Schickard
+- **Research software** — Vue.js and Python GTK apps for scientific data management, presented at a conference in Düsseldorf
+- **Enterprise software** — Finance-domain applications with ASP.NET Core, REST APIs, and database engineering at Cognizant
+- **Self-hosting** — I run my own infrastructure at home — media streaming, music server, DNS, ad blocking, VPN, custom router firmware, and automated workflows including the pipeline behind my blog
 
-## Expertise 🚀
+## Outside of code
 
-My expertise lies in building scalable applications with .NET Core, as well as a deep understanding of building applications using .NET Core and Azure PaaS and Serverless offerings. I take pride in writing clear and maintainable code, documenting my work, and constantly learning and staying on top of emerging technologies.
+I write about tech, cybersecurity, audio, home labbing, and automobiles at [vazhappilly.eu](https://vazhappilly.eu). I'm into cars, networking experiments, and building small tools that make daily life a bit more under my control.
 
-## Current Focus 🌱
+If you're into self-hosting, open-source tooling, or just want to talk shop — always feel free to reach out.
 
-I am currently upgrading my problem-solving skills through Data Structures and Algorithms and learning something new every day is my daily routine. I believe in delivering quality work and managing multiple projects on strict timelines.
+## Get in touch
 
-## Let's Connect 🤝
-
-I am always looking to collaborate and create innovative solutions together. Please feel free to connect with me on [GitHub](https://github.com/ashdriod) to learn more about my projects and experience.
+- 🌐 [vazhappilly.eu](https://vazhappilly.eu)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashwinvazhappilly/)
+- 📬 contact@vazhappilly.eu
